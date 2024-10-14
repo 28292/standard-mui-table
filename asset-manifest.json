@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/standard-mui-table/static/css/main.f855e6bc.css",
+    "main.js": "/standard-mui-table/static/js/main.880ed90c.js",
+    "index.html": "/standard-mui-table/index.html",
+    "main.f855e6bc.css.map": "/standard-mui-table/static/css/main.f855e6bc.css.map",
+    "main.880ed90c.js.map": "/standard-mui-table/static/js/main.880ed90c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.880ed90c.js"
+  ]
+}
